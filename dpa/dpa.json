@@ -1,0 +1,22 @@
+{
+    "domain": "dpa.thesis.ruialves.me",
+    "paasDomain": "paas.dpa.thesis.ruialves.me",
+    "faasDomain": "faas.dpa.thesis.ruialves.me",
+    "paasTargetUrls": [
+        "info/contacts/",
+        "polls/1/results/",
+        "polls/2/results/"
+    ],
+    "faasTargetUrls": [
+        "",
+        "polls/",
+        "polls/1/",
+        "polls/2/",
+        "polls/1/vote/",
+        "polls/2/vote/",
+        "info/help/",
+        "info/help/shopping/",
+        "info/help/billing/",
+        "info/help/returns/"
+    ]
+}
