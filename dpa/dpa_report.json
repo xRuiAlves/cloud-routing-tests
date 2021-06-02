@@ -1,0 +1,86 @@
+{
+    "domain": "dpa.thesis.ruialves.me",
+    "paasDomain": "paas.dpa.thesis.ruialves.me",
+    "faasDomain": "faas.dpa.thesis.ruialves.me",
+    "successRate": "100.00%",
+    "results": [
+        {
+            "url": "http://dpa.thesis.ruialves.me/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/polls/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/polls/1/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/polls/2/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/polls/1/vote/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/polls/2/vote/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/info/help/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/info/help/shopping/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/info/help/billing/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/info/help/returns/",
+            "expectedDomain": "faas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "faas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/info/contacts/",
+            "expectedDomain": "paas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "paas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/polls/1/results/",
+            "expectedDomain": "paas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "paas.dpa.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://dpa.thesis.ruialves.me/polls/2/results/",
+            "expectedDomain": "paas.dpa.thesis.ruialves.me",
+            "obtainedDomain": "paas.dpa.thesis.ruialves.me",
+            "success": true
+        }
+    ]
+}

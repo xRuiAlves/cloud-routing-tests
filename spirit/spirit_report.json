@@ -1,0 +1,590 @@
+{
+    "domain": "spirit.thesis.ruialves.me",
+    "paasDomain": "paas.spirit.thesis.ruialves.me",
+    "faasDomain": "faas.spirit.thesis.ruialves.me",
+    "successRate": "100.00%",
+    "results": [
+        {
+            "url": "http://spirit.thesis.ruialves.me/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/search/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/category/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/category/1/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/category/1/sample/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/login/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/logout/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/password_change/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/password_change/done/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/group/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/group/add/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/group/autocomplete/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/group/1/history/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/group/1/delete/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/group/1/change/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/group/1/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/user/1/password/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/user/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/user/add/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/user/autocomplete/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/user/1/history/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/user/1/delete/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/user/1/change/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/auth/user/1/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/admin/label/",
+            "expectedDomain": "faas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "faas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/password-change/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/email-change/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/email-change/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/unsubscribe/1/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/1/sample/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/topics/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/topics/1/sample/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/likes/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/likes/1/sample/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/menu/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/login/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/logout/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/register/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/resend-activation/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/activation/1/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/password-reset/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/password-reset/done/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/reset/1/token/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/user/reset/done/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/publish/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/publish/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/update/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/1/sample/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/active/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/moderate/delete/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/moderate/undelete/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/moderate/lock/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/moderate/unlock/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/moderate/pin/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/moderate/unpin/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/moderate/global-pin/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/moderate/global-unpin/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/unread/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/notification/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/notification/unread/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/notification/ajax/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/notification/1/create/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/notification/1/update/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/notification/mark/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/favorite/1/create/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/favorite/1/delete/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/private/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/private/author/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/private/publish/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/private/publish/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/private/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/private/1/sample/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/private/invite/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/private/remove/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/topic/private/join/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/1/publish/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/1/publish/1/quote/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/1/update/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/1/find/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/1/move/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/1/delete/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/1/undelete/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/bookmark/1/create/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/bookmark/1/find/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/flag/1/create/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/history/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/like/1/create/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/like/1/delete/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/poll/close/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/poll/open/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/poll/vote/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/poll/voters/1/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        },
+        {
+            "url": "http://spirit.thesis.ruialves.me/comment/upload/",
+            "expectedDomain": "paas.spirit.thesis.ruialves.me",
+            "obtainedDomain": "paas.spirit.thesis.ruialves.me",
+            "success": true
+        }
+    ]
+}
