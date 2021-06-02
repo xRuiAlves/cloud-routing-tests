@@ -1,0 +1,4 @@
+Method,Name,Error,Occurrences
+GET,/polls/help (PaaS),"HTTPError('429 Client Error: Too Many Requests for url: /polls/help (PaaS)',)",646
+GET,/polls/contacts (FaaS),"HTTPError('429 Client Error: Too Many Requests for url: /polls/contacts (FaaS)',)",705
+GET,/polls/contacts (FaaS),"ReadTimeout(ReadTimeoutError(""HTTPConnectionPool(host='sls-weur-dev-serverless-framework-app.azurewebsites.net', port=80): Read timed out. (read timeout=10.0)"",),)",1

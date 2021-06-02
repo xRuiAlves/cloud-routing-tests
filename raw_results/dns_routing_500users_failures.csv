@@ -1,0 +1,3 @@
+Method,Name,Error,Occurrences
+GET,/polls/contacts (FaaS),"HTTPError('500 Server Error: Internal Server Error for url: /polls/contacts (FaaS)',)",2
+GET,/polls/help (PaaS),"HTTPError('500 Server Error: Internal Server Error for url: /polls/help (PaaS)',)",4
